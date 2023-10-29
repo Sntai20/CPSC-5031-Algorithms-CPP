@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Fundamentals", "1.2 Fundamentals", "{49F7FFF6-16E6-4354-BD16-3C4BC0F279A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinDistance-Start", "MinDistance-Start\MinDistance-Start.vcxproj", "{FC1694CC-B145-4A9E-B21C-6338932E0951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1694CC-B145-4A9E-B21C-6338932E0951}.Debug|x64.ActiveCfg = Debug|x64
+		{FC1694CC-B145-4A9E-B21C-6338932E0951}.Debug|x64.Build.0 = Debug|x64
+		{FC1694CC-B145-4A9E-B21C-6338932E0951}.Release|x64.ActiveCfg = Release|x64
+		{FC1694CC-B145-4A9E-B21C-6338932E0951}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC1694CC-B145-4A9E-B21C-6338932E0951} = {49F7FFF6-16E6-4354-BD16-3C4BC0F279A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15659489-0526-41E9-A6EA-700A88F8A0E4}
+	EndGlobalSection
+EndGlobal
