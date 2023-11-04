@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fc1694cc-b145-4a9e-b21c-6338932e0951}</ProjectGuid>
-    <RootNamespace>MinDistanceStart</RootNamespace>
+    <ProjectGuid>{36f2dd64-9c88-4235-9de1-8b88b0347529}</ProjectGuid>
+    <RootNamespace>FindMinimumDistanceFinished</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
