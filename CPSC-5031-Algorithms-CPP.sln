@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindMinimumDistance-Start",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindMinimumDistance-Finished", "FindMinimumDistance-Finished\FindMinimumDistance-Finished.vcxproj", "{36F2DD64-9C88-4235-9DE1-8B88B0347529}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 Problem Types", "1.3 Problem Types", "{B8615019-0E70-49CF-9D11-9847759C71AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComparisonCountingSort-Start", "ComparisonCountingSort-Start\ComparisonCountingSort-Start.vcxproj", "{BD996D96-48F5-4742-968E-7D1BDA043C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +37,14 @@ Global
 		{36F2DD64-9C88-4235-9DE1-8B88B0347529}.Release|x64.Build.0 = Release|x64
 		{36F2DD64-9C88-4235-9DE1-8B88B0347529}.Release|x86.ActiveCfg = Release|Win32
 		{36F2DD64-9C88-4235-9DE1-8B88B0347529}.Release|x86.Build.0 = Release|Win32
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Debug|x64.ActiveCfg = Debug|x64
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Debug|x64.Build.0 = Debug|x64
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Debug|x86.Build.0 = Debug|Win32
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Release|x64.ActiveCfg = Release|x64
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Release|x64.Build.0 = Release|x64
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Release|x86.ActiveCfg = Release|Win32
+		{BD996D96-48F5-4742-968E-7D1BDA043C68}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +52,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FC1694CC-B145-4A9E-B21C-6338932E0951} = {49F7FFF6-16E6-4354-BD16-3C4BC0F279A0}
 		{36F2DD64-9C88-4235-9DE1-8B88B0347529} = {49F7FFF6-16E6-4354-BD16-3C4BC0F279A0}
+		{BD996D96-48F5-4742-968E-7D1BDA043C68} = {B8615019-0E70-49CF-9D11-9847759C71AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {15659489-0526-41E9-A6EA-700A88F8A0E4}
